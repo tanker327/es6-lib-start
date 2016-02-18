@@ -1,5 +1,4 @@
-// import hello from './lib';
-let hello = 'Hello world!';
+import hello from './lib';
 
 class Lib {
   constructor() {
